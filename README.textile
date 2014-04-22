@@ -1,0 +1,3 @@
+This scraper pulls all the restaurants listed at "kosherinfrance.com":http://www.kosherinfrance.com for Ile de France (region including Paris) and geocodes each of them so that it's suitable for mapping.
+
+See data plotted on a Google Map at "abbett.org":http://abbett.org/resources/paris-kosher-map/
