@@ -1,4 +1,5 @@
 <?php
+require 'scraperwiki.php';
 
 function geocode($addr) {
 
